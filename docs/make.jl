@@ -51,6 +51,7 @@ makedocs(
         "Opting out of rules" => "opting_out_of_rules.md",
         "Writing Good Rules" => "writing_good_rules.md",
         "Complex Numbers" => "complex.md",
+        "Non-differentiable Points" => "nondiff_points.md",
         "Deriving Array Rules" => "arrays.md",
         "Debug Mode" => "debug_mode.md",
         "Gradient Accumulation" => "gradient_accumulation.md",
